@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/plan-with-family.github.io/static/css/main.c4af00c1.css",
+    "main.js": "/plan-with-family.github.io/static/js/main.98bf38d6.js",
+    "index.html": "/plan-with-family.github.io/index.html",
+    "main.c4af00c1.css.map": "/plan-with-family.github.io/static/css/main.c4af00c1.css.map",
+    "main.98bf38d6.js.map": "/plan-with-family.github.io/static/js/main.98bf38d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4af00c1.css",
+    "static/js/main.98bf38d6.js"
+  ]
+}
